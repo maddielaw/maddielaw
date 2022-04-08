@@ -5,7 +5,7 @@ I'm a frontend software engineer, current student at Turing School of Software &
 ⚙️ **I'm currently working on**:
 
 
-A React.js paired project called [Rancid Tomatillos](https://github.com/maddielaw/rancid-tomatillos)
+A React.js group project incorporating the Context API -- more to come on this soon!
 <br/>
 
 

@@ -5,7 +5,7 @@ I'm a frontend software engineer, current student at Turing School of Software &
 ⚙️ **I'm currently working on**:
 
 
-A React.js group project incorporating the Context API -- [RecMe](https://github.com/Jerry-Vrrr/rec-me) is a music recommendation and discovery site with some cool game features!
+A React.js showcase project called Launch Lookup 🚀 More details to come!
 <br/>
 
 

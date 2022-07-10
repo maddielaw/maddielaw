@@ -1,22 +1,24 @@
 ### Hi there 👋 I'm Madison but you can call me Maddie.
 
-I'm a frontend software engineer, current student at Turing School of Software & Design and passionate about problem-solving, collaboration, and how tech can be used to tell stories and foster better human connection.
+I'm a frontend software engineer, current frontend software engineer and passionate about problem-solving, collaboration, and how tech can be used to tell stories and foster better human connection.
 
 <!-- ⚙️ **I'm currently working on**:
 
 <br/>
  -->
 
-🌱 **I'm currently learning**:
+<!-- 🌱 **I'm currently learning**:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 <br/>
+-->
 
 
 🌳 **My coding skills**:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Context](https://img.shields.io/badge/react_context-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
